@@ -1,0 +1,6 @@
+# Molecule AI workspace runtime — shared infrastructure
+molecule-ai-workspace-runtime>=0.1.0
+
+# AutoGen adapter specific deps
+autogen-agentchat>=0.4.0
+autogen-ext[openai]>=0.4.0
